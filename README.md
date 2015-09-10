@@ -1,3 +1,3 @@
 # Test
 
-this is a test repo please ignore
+this is a good test repo please ignore
